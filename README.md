@@ -1,3 +1,6 @@
+![LightMode](https://zupimages.net/up/21/03/b1sp.png)
+![DarkMode](https://zupimages.net/up/21/03/gyn6.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
