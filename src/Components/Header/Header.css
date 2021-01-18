@@ -1,0 +1,25 @@
+.btn-toggle {
+
+  top: 20px;
+  right: 0px;
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  margin-top: 8px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.btn-toggle.goLight{
+  background: #581845;
+  color: #fafafa;
+}
+
+.btn-toggle.goDark{
+  background: #fafafa;
+  color: #581845;
+}
